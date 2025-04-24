@@ -2,7 +2,7 @@
 
 ## Disciplina: Matemática Computacional (DS613) - UFPR
 
-Este repositório contém exemplos e exercícios relacionados à parte de Estruturas de Dados em Python, com foco especial em conjuntos (set) e suas operações matemáticas.
+Este repositório contém exemplos e exercícios relacionados à parte de Estruturas de Dados em Python, com foco especial em conjuntos (set) e suas operações matemáticas. Docente: Profa. Dra. ELOISA ROSOTTI NAVARRO
 
 ## Conteúdo
 

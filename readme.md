@@ -68,4 +68,4 @@ Estes exercícios demonstram aplicações práticas de conceitos matemáticos fu
 
 - Documentação oficial do Python sobre [conjuntos](https://docs.python.org/3/tutorial/datastructures.html#sets)
 - Material da disciplina de Matemática Computacional (DS613) - UFPR
-- Apostila criada pelos alunos Gabriel Albuquerque, Lara, Letícia, Thiago, Vinicius Eduardo e Vinicius Henrique
+- Apostila criada pelos alunos Lucas  Garzuze, Gabriel Albuquerque, Lara, Letícia, Thiago, Vinicius Eduardo e Vinicius Henrique
